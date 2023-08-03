@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = 'http://localhost:5000/api/movies/'
+const API_URL = 'https://uptight-jade-horse.cyclic.cloud/api/movies/'
 
 //Create New Movie
 
